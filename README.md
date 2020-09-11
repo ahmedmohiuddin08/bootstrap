@@ -1,3 +1,3 @@
 # bootstrap
 
-https://ahmedmohiuddin08.github.io/bootstrap/
+https://ahmedmohiuddin08.github.io/bootstrap-template/
